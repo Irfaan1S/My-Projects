@@ -3,3 +3,5 @@
 <img width="828" height="936" alt="image" src="https://github.com/user-attachments/assets/c805c2c7-4fe4-4a83-b93e-c1504bf529fa" />
 <h1>Schematic</h1>
 <img width="2550" height="3300" alt="schematic_page-0001 (1)" src="https://github.com/user-attachments/assets/315914ac-ecd5-48a0-b037-cf830bdfe558" />
+<h1>Waveform</h1>
+<img width="1898" height="264" alt="image" src="https://github.com/user-attachments/assets/b50358d3-10a1-49ac-9a03-36e74c1d50e6" />
