@@ -12,3 +12,6 @@
 
 <h1>Control Unit instruction Table</h1>
 <img width="1138" height="649" alt="image" src="https://github.com/user-attachments/assets/261a408a-785b-444e-b00e-aba85d71ce18" />
+
+<h1>Supported Instructions</h1>
+This design implements all 47 RV32I instructions: R-type: add, sub, sll, slt, sltu, xor, srl, sra, or, and I-type (arithmetic): addi, slti, sltiu, xori, ori, andi, slli, srli, srai Load: lb, lh, lw, lbu, lhu Store: sb, sh, sw Branch: beq, bne, blt, bge, bltu, bgeu Jump: jal, jalr Upper Immediate: lui, auipc
